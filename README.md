@@ -4,7 +4,7 @@ Use dict_to_csv_main for create csv file if you need
 
 install:
 
-requirements.txt
+pip install -r requirements.txt
 
 run:
 
